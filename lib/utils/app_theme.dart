@@ -28,7 +28,8 @@ ThemeData darkTheme = ThemeData(
         )),
     textTheme: TextTheme(
       titleLarge:TextStyle(fontSize:25,color:Colors.white,fontWeight: FontWeight.bold),
-      titleMedium:TextStyle(fontSize:20,color:Colors.white),
+      titleMedium:TextStyle(fontSize:20,color:Colors.black
+      ),
       titleSmall: TextStyle(fontSize:15,color:Colors.white),
 
     ),
